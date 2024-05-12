@@ -30,4 +30,5 @@ formatted_prompt = few_shot_prompt.format(
 
 result = llm.predict(formatted_prompt)
 print("formatted_prompt: ", formatted_prompt)
+print("============")
 print("result: ", result)

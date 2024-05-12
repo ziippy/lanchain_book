@@ -4,7 +4,7 @@ import openai
 # response = openai.ChatCompletion.create(
 response = openai.Completion.create(
     model="gpt-3.5-turbo-instruct",
-    prompt="오늘 날씨가 매우 좋고 기분이",
+    prompt="내가 아는 주찬이는",
     stop=".",
     max_tokens=100,
     n=2,
