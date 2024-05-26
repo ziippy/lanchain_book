@@ -13,5 +13,5 @@ async def on_message(input_message):
 
 
 # 실행은
-# chainlit run 07_chat_1.py
+# chainlit run 06_chat_1.py
 # 로 해야 한다.
