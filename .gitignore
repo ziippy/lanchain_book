@@ -2,3 +2,4 @@
 /03_retrieval/.chainlit/
 /03_retrieval/.chroma/
 /04_memory/.chainlit/
+*.pvc
